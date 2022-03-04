@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6b95162-3489-40d0-b3f5-ee5814d7cd88": {
+      "ProjectGuid": "f6b95162-3489-40d0-b3f5-ee5814d7cd88",
+      "DisplayName": "Aliyun.Log.Core.Client",
+      "ColorIndex": 0
+    },
+    "75954ef4-acdd-4138-a980-d1e20be5145b": {
+      "ProjectGuid": "75954ef4-acdd-4138-a980-d1e20be5145b",
+      "DisplayName": "Aliyun.Log.Core",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
